@@ -29,6 +29,7 @@ provider "aws" {
     stepfunctions  = "http://localhost:4566"
     sts            = "http://localhost:4566"
     ec2            = "http://localhost:4566"
+    eks            = "http://localhost:4566"
   }
 }
 
